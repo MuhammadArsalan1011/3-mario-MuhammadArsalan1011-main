@@ -12,13 +12,13 @@ Welcome to the **Mario Game - Extended Edition**, a reimagined version of the cl
 ---
 
 ## 📋 Table of Contents
-1. [📖 Project Overview](#project-overview)
-2. [✨ Features](#features)
-3. [🛠️ Technologies Used](#technologies-used)
-4. [🎯 Project Context](#project-context)
-5. [🎮 Gameplay Mechanics](#gameplay-mechanics)
-6. [🚀 Installation and Usage](#installation-and-usage)
-7. [📅 Future Enhancements](#future-enhancements)
+1. [📖 Project Overview](#-project-overview)
+2. [✨ Features](#-features)
+3. [🛠️ Technologies Used](#-technologies-used)
+4. [🎯 Project Context](#-project-context)
+5. [🎮 Gameplay Mechanics](#-gameplay-mechanics)
+6. [🚀 Installation and Usage](#-installation-and-usage)
+7. [📅 Future Enhancements](#-future-enhancements)
 
 ---
 
